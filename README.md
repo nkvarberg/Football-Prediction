@@ -1,5 +1,5 @@
 # Football-Prediction
-Goals: 
+### Goals: 
 * Predict output of NFL football players from previous data.
 
 ### Notes from first Meeting:
