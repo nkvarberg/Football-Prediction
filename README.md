@@ -14,3 +14,6 @@ Meet again on morning of Thursday October 10:
 
 Goal for midpoint Nov. 13:
 * Have a minimal viable algorithm that predicts something.
+
+### Data:
+We are using data gathered by and desbribed by https://www.kaggle.com/zynicide/nfl-football-player-stats.
