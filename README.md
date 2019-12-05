@@ -17,3 +17,7 @@ Goal for midpoint Nov. 13:
 
 ### Data:
 We are using data gathered by and described by https://www.kaggle.com/zynicide/nfl-football-player-stats.
+
+
+### Final Report Ideas:
+* Visual: models performance (MSE) vs baseline week by week on test year/weeks (2017 week 1 - 16).
